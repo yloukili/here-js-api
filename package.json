@@ -11,8 +11,5 @@
   "bugs": {
     "url": "https://github.com/denyo/here-js-api/issues"
   },
-  "homepage": "https://github.com/denyo/here-js-api",
-  "devDependencies": {
-    "@types/heremaps": "0.0.0"
-  }
+  "homepage": "https://github.com/denyo/here-js-api"
 }
