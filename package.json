@@ -1,6 +1,6 @@
 {
   "name": "here-js-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Here JavaScript API",
   "repository": {
     "type": "git",
@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/denyo/here-js-api/issues"
   },
-  "homepage": "https://github.com/denyo/here-js-api"
+  "homepage": "https://github.com/denyo/here-js-api",
+  "devDependencies": {
+    "@types/heremaps": "0.0.0"
+  }
 }
