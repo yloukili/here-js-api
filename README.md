@@ -7,6 +7,7 @@ This package contains the following files of HERE maps in order to bundle them w
 * https://js.api.here.com/v3/3.0/mapsjs-ui.js
 * https://js.api.here.com/v3/3.0/mapsjs-mapevents.js
 * https://js.api.here.com/v3/3.0/mapsjs-clustering.js
+* https://js.api.here.com/v3/3.0/mapsjs-ui.css
 
 
 ## Usage
