@@ -272,11 +272,6 @@
   line-height: 1em;
   fill: #000;
   left: -100%;
-  -moz-user-select: initial;
-  -khtml-user-select: initial;
-  -webkit-user-select: initial;
-  -o-user-select: initial;
-  -ms-user-select: initial;
 }
 .H_ib_tail {
   position: absolute;
@@ -321,6 +316,12 @@
   min-width: 6em;
   margin: .2em 0;
   padding: 0 .2em;
+  user-select: text;
+  -moz-user-select: text;
+  -khtml-user-select: text;
+  -webkit-user-select: text;
+  -o-user-select: text;
+  -ms-user-select: text;
 }
 
 
