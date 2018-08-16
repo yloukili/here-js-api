@@ -22,3 +22,9 @@ import 'here-js-api/scripts/mapsjs-clustering';
 ```
 
 
+## Maintenance
+
+The API scripts and styles are downloaded automatically via an included Rakefile.
+The API version is kept in the file API_VERSION.
+Touch or update this file to re-download.
+`rake download` starts the download.
