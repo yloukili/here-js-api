@@ -2,13 +2,12 @@
 
 This package contains the following files of HERE maps in order to bundle them within your own project.
 
-- https://js.api.here.com/v3/3.0/mapsjs-core.js
-- https://js.api.here.com/v3/3.0/mapsjs-service.js
-- https://js.api.here.com/v3/3.0/mapsjs-ui.js
-- https://js.api.here.com/v3/3.0/mapsjs-mapevents.js
-- https://js.api.here.com/v3/3.0/mapsjs-clustering.js
-- https://js.api.here.com/v3/3.0/mapsjs-places.js
-- https://js.api.here.com/v3/3.0/mapsjs-ui.css
+- https://js.api.here.com/v3/3.1/mapsjs-core.js
+- https://js.api.here.com/v3/3.1/mapsjs-service.js
+- https://js.api.here.com/v3/3.1/mapsjs-ui.js
+- https://js.api.here.com/v3/3.1/mapsjs-mapevents.js
+- https://js.api.here.com/v3/3.1/mapsjs-clustering.js
+- https://js.api.here.com/v3/3.1/mapsjs-ui.css
 
 ## Usage
 
