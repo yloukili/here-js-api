@@ -12,7 +12,7 @@ task :default do
 end
 
 MODULES = {
-  scripts: %w(core.js service.js places.js ui.js mapevents.js clustering.js data.js),
+  scripts: %w(core.js service.js ui.js mapevents.js clustering.js data.js),
   styles: %w(ui.css),
 }
 API_VERSION = File.read('API_VERSION').strip
